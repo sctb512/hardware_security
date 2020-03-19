@@ -5,4 +5,5 @@ hardware_security data compilation.
 
 - [基于边信道的硬件攻击小综述](https://github.com/sctb512/hardware_security/blob/master/files/基于边信道的硬件攻击小综述.md)
 
+- [深入理解“骑士”漏洞 VoltJockey.md](./files/深入理解“骑士”漏洞 VoltJockey.md)
   
