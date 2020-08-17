@@ -9,4 +9,4 @@ hardware_security data compilation.
 
 - [NetCAT：来自网络的实用缓存攻击](https://github.com/sctb512/hardware_security/blob/master/files/NetCAT：来自网络的实用缓存攻击.md)
 
-- [Mastik：微体系结构侧信道攻击工具包](https://github.com/sctb512/hardware_security/blob/master/files/Mastik：微体系结构侧信道攻击工具包.md)
+- [Mastik：微体系结构侧信道攻击工具包](https://github.com/sctb512/hardware_security/blob/master/files/Mastik：微架构侧信道攻击工具包.md)
