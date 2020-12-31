@@ -14,3 +14,6 @@ hardware_security data compilation.
 - [Packet Chasing：通过缓存侧信道监视网络数据包](https://github.com/sctb512/hardware_security/blob/master/files/Packet%20Chasing：通过缓存侧信道监视网络数据包.md)
 
 - [NetSpectre：通过网络读取任意内存](https://github.com/sctb512/hardware_security/blob/master/files/NetSpectre：通过网络读取任意内存.md)
+
+- [寻找驱逐集的理论和实践](https://github.com/sctb512/hardware_security/blob/master/files/寻找驱逐集的理论和实践.md)
+
